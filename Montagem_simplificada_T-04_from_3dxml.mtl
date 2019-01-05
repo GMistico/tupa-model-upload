@@ -1,0 +1,165 @@
+# MTL-File belongs to model: Montagem simplificada T-04 from 3dxml.obj
+# Don't change this file name - original file name: Montagem_simplificada_T-04_from_3dxml.mtl
+# MTL-File and OBJ-Model shall be in the same directory
+
+# 53 Colors
+
+newmtl Color0
+Kd 0.000000 0.000000 0.000000
+
+newmtl Color1
+Kd 0.082353 0.082353 0.082353
+
+newmtl Color2
+Kd 0.960784 0.839216 0.000000
+
+newmtl Color3
+Kd 0.792157 0.819608 0.933333
+
+newmtl Color4
+Kd 0.203922 0.203922 0.203922
+
+newmtl Color5
+Kd 0.752941 0.752941 0.752941
+
+newmtl Color6
+Kd 0.866667 0.909804 1.000000
+
+newmtl Color7
+Kd 0.792157 0.819608 0.929412
+
+newmtl Color8
+Kd 1.000000 0.949020 0.909804
+
+newmtl Color9
+Kd 0.776471 0.756863 0.737255
+
+newmtl Color10
+Kd 0.650980 0.619608 0.588235
+
+newmtl Color11
+Kd 0.686275 0.686275 0.686275
+
+newmtl Color12
+Kd 0.643137 0.678431 0.694118
+
+newmtl Color13
+Kd 0.200000 0.200000 0.200000
+
+newmtl Color14
+Kd 0.898039 0.898039 0.000000
+
+newmtl Color15
+Kd 1.000000 0.168627 0.168627
+
+newmtl Color16
+Kd 0.639216 0.666667 0.678431
+
+newmtl Color17
+Kd 0.294118 0.294118 0.294118
+
+newmtl Color18
+Kd 0.000000 1.000000 0.000000
+
+newmtl Color19
+Kd 0.501961 0.501961 0.501961
+
+newmtl Color20
+Kd 0.847059 0.847059 0.847059
+
+newmtl Color21
+Kd 0.796078 0.823529 0.937255
+
+newmtl Color22
+Kd 0.968627 0.815686 0.000000
+
+newmtl Color23
+Kd 0.619608 0.407843 0.200000
+
+newmtl Color24
+Kd 1.000000 0.811765 0.027451
+
+newmtl Color25
+Kd 1.000000 1.000000 0.000000
+
+newmtl Color26
+Kd 0.898039 0.913725 0.925490
+
+newmtl Color27
+Kd 0.650980 0.619608 0.584314
+
+newmtl Color28
+Kd 1.000000 0.941176 0.839216
+
+newmtl Color29
+Kd 0.266667 0.266667 0.266667
+
+newmtl Color30
+Kd 0.509804 0.509804 0.588235
+
+newmtl Color31
+Kd 0.749020 0.749020 0.000000
+
+newmtl Color32
+Kd 0.525490 0.525490 0.525490
+
+newmtl Color33
+Kd 0.898039 0.917647 0.929412
+
+newmtl Color34
+Kd 0.823529 0.000000 0.000000
+
+newmtl Color35
+Kd 0.000000 0.000000 0.501961
+
+newmtl Color36
+Kd 1.000000 1.000000 1.000000
+
+newmtl Color37
+Kd 1.000000 0.784314 0.094118
+
+newmtl Color38
+Kd 0.968627 0.164706 0.000000
+
+newmtl Color39
+Kd 0.105882 0.105882 0.105882
+
+newmtl Color40
+Kd 0.631373 0.654902 0.678431
+
+newmtl Color41
+Kd 0.643137 0.619608 0.588235
+
+newmtl Color42
+Kd 0.101961 0.101961 0.101961
+
+newmtl Color43
+Kd 0.250980 0.250980 0.250980
+
+newmtl Color44
+Kd 0.098039 0.098039 0.098039
+
+newmtl Color45
+Kd 0.000000 0.000000 0.627451
+
+newmtl Color46
+Kd 0.639216 0.639216 0.686275
+
+newmtl Color47
+Kd 0.674510 0.529412 0.090196
+
+newmtl Color48
+Kd 0.305882 0.305882 0.305882
+
+newmtl Color49
+Kd 0.329412 0.329412 0.329412
+
+newmtl Color50
+Kd 0.113725 0.113725 0.113725
+
+newmtl Color51
+Kd 1.000000 0.341176 0.505882
+
+newmtl Color52
+Kd 1.000000 0.494118 0.000000
+
